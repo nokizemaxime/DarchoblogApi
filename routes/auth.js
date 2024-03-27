@@ -45,7 +45,7 @@ router.post("/register", async (req, res) => {
 
 /**
  * @swagger
- * /login:
+ * /api/auth/login:
  *            post:
  *              description: Login
  *              parameters:
